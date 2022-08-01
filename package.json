@@ -2,6 +2,10 @@
   "name": "simply-order",
   "version": "0.2.0",
   "private": true,
+  "engines": {
+    "node": "16.15.0",
+    "npm": "8.5.5"
+  }
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.6",
     "@testing-library/react": "^11.2.2",
